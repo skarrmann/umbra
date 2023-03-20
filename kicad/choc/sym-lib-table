@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "umbra-components")(type "KiCad")(uri "${KIPRJMOD}/../../kicad-libraries/umbra-components/umbra-components.kicad_sym")(options "")(descr ""))
+)
