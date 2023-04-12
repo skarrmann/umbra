@@ -34,6 +34,8 @@ Each build uses two copies of the same PCB. This PCB acts as both the logical PC
 
 * KMK
     * Setup instructions and basic configuration is in this repo: [`firmware/kmk`](firmware/kmk)
+* GP2040-CE
+    * Setup instructions in this repo: [`firmware/gp2040-ce`](firmware/gp2040-ce)
 
 ## Bill of materials
 
