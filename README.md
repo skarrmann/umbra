@@ -39,17 +39,15 @@ Each build uses two copies of the same PCB. This PCB acts as both the logical PC
 
 ## Bill of materials
 
-Vendor URLs are just recommendations based on quality/affordablity. I have purchased from these vendors, but have no personal affiliation with them.
-
-Part | Purpose | Quantity | Notes | Vendor URL
----- | ------- | -------- | --------- | ----------
-PCB  | circuit board and bottom plate | 2 | | Send Gerber zip files to [JLCPCB](https://jlcpcb.com/).
-Raspberry Pi Pico | Microcontroller board | 1 | Supports other boards with the Pico footprint and castellated solder pads (Waveshare RP2040 Plus) | [Adafruit - Pico without Headers](https://www.adafruit.com/product/4864)
-Keyswitches |  | 24 |  | [MKUltra Corporation - Kailh Low Profile Choc Switches](https://mkultra.click/choc-switches)
-Keycaps |  | 24 | | [MKUltra Corporation - Kailh Choc Keycaps](https://mkultra.click/kailh-choc-keycaps)
-M2 6mm screws | Secure main PCB and bottom plate PCB | 7 | | [AliExpress (wuhushiyu) - 200PCS-M2 Mix - Black](https://www.aliexpress.com/item/32862529967.html)
-M2 nuts | Secure main PCB and bottom plate PCB | 7 | | See M2 set above
-2mm tall rubber bumpons | Raise board above desk surface and provide skid resitance | 8 | | [Amazon - 3M SJ5302 Clear Bumpon Blister Pack (96 Bumpons)](https://www.amazon.com/SJ5302-Clear-Bumpon-Blister-Bumpons/dp/B01ACPT2LU)
+Part | Purpose | Quantity | Notes
+---- | ------- | -------- | ---------
+PCB  | circuit board and bottom plate | 2 | Send Gerber zip files to [JLCPCB](https://jlcpcb.com/).
+Raspberry Pi Pico | Microcontroller board | 1 | Supports other boards with the Pico footprint and castellated solder pads (Waveshare RP2040 Plus) 
+Keyswitches |  | 24 | Kailh Choc V1 keyswitches
+Keycaps |  | 24 | Kailh Choc V1 keycaps (18mm x 17mm)
+M2 6mm screws | Secure main PCB and bottom plate PCB | 7 |
+M2 nuts | Secure main PCB and bottom plate PCB | 7 |
+2mm tall rubber bumpons | Raise board above desk surface and provide skid resitance | 8 |
 
 ## PCB manufacturing settings
 
